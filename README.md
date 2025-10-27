@@ -312,7 +312,9 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📧 Contact
 
-**Votre Nom** - [@venceslas NGASSAM](www.linkedin.com/in/venceslas-osee-ngassam-kate-data-engineer)
+**Venceslas Osée Ngassam Kate** - Data Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venceslas-osee-ngassam-kate-data-engineer)
 
 **Lien du Projet** : [https://github.com/ngassamven/Projet-d-ing-nierie-des-donn-es-en-assurance-pour-d-butants-Pipeline-r-el-avec-Snowflake-et-DBT](https://github.com/ngassamven/Projet-d-ing-nierie-des-donn-es-en-assurance-pour-d-butants-Pipeline-r-el-avec-Snowflake-et-DBT)
 
